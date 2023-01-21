@@ -1,0 +1,40 @@
+{
+    "ITEMS": {
+        "item1": {
+            "name": "Яблоко",
+            "price": 1,
+            "pieces": 123,
+            "avatar": "https://dom-eda.com/uploads/images/catalog/item/86df51de21/c25c94fe96_1000.jpg"
+        },
+        "item2": {
+            "name": "Груша",
+            "price": 2,
+            "pieces": 26,
+            "avatar": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/pear.jpg"
+        },
+        "item3": {
+            "name": "Банан",
+            "price": 3.5,
+            "pieces": 426,
+            "avatar": "https://nashzelenyimir.ru/wp-content/uploads/2016/07/%D0%91%D0%B0%D0%BD%D0%B0%D0%BD-%D1%84%D0%BE%D1%82%D0%BE.jpg"
+        },
+        "item4": {
+            "name": "Арбуз",
+            "price": 7,
+            "pieces": 54,
+            "avatar": "https://vsluh.ru/upload/iblock/0aa/uzpjy23xehdro49inqrd5si6owmp4qou.jpg"
+        },
+        "item5": {
+            "name": "Киви",
+            "price": 3,
+            "pieces": 109,
+            "avatar": "https://static9.depositphotos.com/1024764/1231/i/600/depositphotos_12315287-stock-photo-juicy-kiwi-fruit.jpg"
+        },
+        "item6": {
+            "name": "Мандарин",
+            "price": 2.5,
+            "pieces": 1,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyHnqvb4g4Gcv9RcAdDT0SP3G-1c6AepKxA&usqp=CAU"
+        }
+    }
+}
